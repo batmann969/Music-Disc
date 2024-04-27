@@ -1,8 +1,8 @@
 [
     {
         "id": "Node 1",
-        "hostname": "localhost",
-        "port": 2333,
-        "password": "youshallnotpass"
+        "hostname": "lava-v4.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver"
     }
 ]
